@@ -2,9 +2,7 @@
   <img src="assets/banner.png" alt="Ioan Pop — SAP IT Software Developer" width="100%">
 </p>
 
-<table>
-<tr>
-<td width="62%" valign="top">
+<img align="right" width="300" src="assets/sidecard.png" alt="">
 
 ### Hi, I'm Ioan Pop 👋
 
@@ -16,14 +14,7 @@ I graduated in **Automation — Systems Engineering** at the *Faculty of Automat
 
 Outside work: chess, basketball and the gym.
 
-</td>
-<td width="38%" valign="top">
-
-<img src="assets/sidecard.png" alt="" width="100%">
-
-</td>
-</tr>
-</table>
+<br clear="right">
 
 ---
 
@@ -76,6 +67,11 @@ A wearable prototype of glasses for visually impaired people: it captures the su
 An open-source recruitment platform connecting candidates and job openings. I'm responsible for the application structure, the data model and feature implementation.
 
 ### [NoMoreQuiting](https://nomorequiting.com/) — Gym Tracking Application
+
+<a href="https://nomorequiting.com/">
+  <img src="assets/nomorequiting-logo.gif" alt="NoMoreQuiting" width="420">
+</a>
+
 A live workout-tracking web app with custom workout categories, live session logging and friend leaderboards. I build the React frontend, contribute to the backend and own the UI/UX design.
 
 ---
