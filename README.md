@@ -1,4 +1,12 @@
-# Hi, I'm Ioan Pop 👋
+<p align="center">
+  <img src="assets/banner.png" alt="Ioan Pop — SAP IT Software Developer" width="100%">
+</p>
+
+<table>
+<tr>
+<td width="62%" valign="top">
+
+### Hi, I'm Ioan Pop 👋
 
 **SAP IT Software Developer @ Siemens Cluj-Napoca**
 
@@ -7,6 +15,15 @@ I build and maintain enterprise SAP applications — ABAP, Web Dynpro, Fiori and
 I graduated in **Automation — Systems Engineering** at the *Faculty of Automation and Computer Science*, finished a master's in **Entrepreneurship** at the *Faculty of Industrial Engineering, Robotics and Production Management*, and I'm now a **Ph.D. student in Engineering and Management** — all at the **Technical University of Cluj-Napoca (UTCN)**.
 
 Outside work: chess, basketball and the gym.
+
+</td>
+<td width="38%" valign="top">
+
+<img src="assets/sidecard.png" alt="" width="100%">
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -63,8 +80,22 @@ A live workout-tracking web app with custom workout categories, live session log
 
 ---
 
-## 📫 Contact
+<h2 align="center">🤝 Connect With Me 🤝</h2>
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ioanpop2001@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ioan-pop-dev)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ioan-pop-forge)
+<p align="center">
+  <a href="mailto:ioanpop2001@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.instagram.com/ioan.pop.01">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://github.com/ioan-pop-forge">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/ioan-pop-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.tiktok.com/@ioanp01">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
+  </a>
+</p>
