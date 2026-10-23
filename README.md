@@ -8,7 +8,7 @@
 
 **SAP IT Software Developer @ Siemens Cluj-Napoca**
 
-I build and maintain enterprise SAP applications — ABAP, Web Dynpro, Fiori and UI5 — and I like automating the parts of the job that don't need a human. Lately that means wiring up multi-agent GitHub Copilot workflows that take a change request from analysis to implementation.
+I build and maintain custom SAP applications — ABAP, Web Dynpro, Fiori and UI5 — and I like automating the parts of the job that don't need a human. Lately that means wiring up multi-agent GitHub Copilot workflows that take a change request from analysis to implementation.
 
 I graduated in **Automation — Systems Engineering** at the *Faculty of Automation and Computer Science*, finished a master's in **Entrepreneurship** at the *Faculty of Industrial Engineering, Robotics and Production Management*, and I'm now a **Ph.D. student in Engineering and Management** — all at the **Technical University of Cluj-Napoca (UTCN)**.
 
